@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <footer>
     
-      <div className="bg-slate-100 flex flex-col items-center justify-center w-[100%] h-[150px] text-center">
+      <div className="bg-slate-100 flex flex-col items-center justify-center w-[100%] h-[150px] text-center overflow-x-hidden">
         <div className="flex gap-4 mb-4">
           <a
             href="https://www.facebook.com/profile.php?id=61552056427575&locale=es_LA"

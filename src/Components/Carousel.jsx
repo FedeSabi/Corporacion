@@ -26,7 +26,7 @@ function Carousel() {
   }, [currentImage, isAutoPlayPaused]);
 
   return (
-    <div className="relative overflow-hidden w-full">
+    <div className="relative overflow-x-hidden w-full">
       <div
         className="flex transition-transform"
         style={{

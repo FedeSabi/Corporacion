@@ -1,6 +1,6 @@
 const NuestraEmpresa = () => {
   return (
-    <div className="bg-azul-joginere  flex flex-col justify-center items-center w-full h-[300px] sm:h-[500px]">
+    <div className="bg-azul-joginere  flex flex-col justify-center items-center w-full h-[300px] sm:h-[500px] overflow-x-hidden">
       <div>
         <h1 className="m-4 font-bold text-center text-amber-50 text-3xl sm:text-5xl md:text-5xl lg:text-6xl xl:text-7xl">
           Conectando fronteras, Ecuador al mundo

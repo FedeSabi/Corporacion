@@ -13,7 +13,7 @@ const Necesitas = () => {
   };
 
   return (
-    <div className="flex flex-col-reverse sm:flex-row-reverse justify-evenly ">
+    <div className="flex flex-col-reverse sm:flex-row-reverse justify-evenly overflow-x-hidden">
       {
         <div className="m-16">
           <img
