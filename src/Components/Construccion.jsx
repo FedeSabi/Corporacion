@@ -1,10 +1,10 @@
-import Logotipo from "../assets/LOGOTIPO.PNG";
+import Logo from "../assets/LOGOTIPO.PNG";
 
 const Construccion = () => {
   return (
     <div className="flex flex-col items-center justify-center h-screen ">
       <img
-        src={Logotipo}
+        src={Logo}
         alt="logo"
         style={{ width: "450px", height: "450px" }}
       />
