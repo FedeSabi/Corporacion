@@ -38,7 +38,7 @@ const Navbar = () => {
         </div>
         <div className="lg:flex md:flex lg: flex-1 items-center justify-end font-normal hidden">
           <div className="flex-10">
-            <ul className="flex gap-[18px] mr-16 text-[18px] fill-stone-700">
+            <ul className="flex gap-[18px] mr-16 text-[16px] font-semibold fill-stone-700">
               <Link
                 to="/"
                 smooth={true}
