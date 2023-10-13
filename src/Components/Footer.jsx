@@ -38,7 +38,7 @@ const Footer = () => {
           </a>
         </div>
         <div>
-          <p className="text-md">
+          <p className="flex text-md">
             Copyright 2023 Corp. Joginere S.A.S. Design by Tecningenio
           </p>
         </div>
