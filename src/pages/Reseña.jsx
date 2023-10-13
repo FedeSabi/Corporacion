@@ -45,4 +45,3 @@ const Reseña = () => {
 };
 
 export default Reseña;
-// se modifico en valores en xl: 100 mr!!!!!!!

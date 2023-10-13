@@ -23,7 +23,7 @@ const Navbar = () => {
   const toggleAboutDropdown3 = () => {
     setAboutDropdownOpen3(!aboutDropdownOpen3);
   };
-// se modifico ul texta 16px!! 
+
   return (
     <nav>
       <div className="h-32 flex justify-between z-50 text-violeta-joginere lg:py-2 px-2 py-2">
