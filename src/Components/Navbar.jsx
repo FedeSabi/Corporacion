@@ -23,10 +23,10 @@ const Navbar = () => {
   const toggleAboutDropdown3 = () => {
     setAboutDropdownOpen3(!aboutDropdownOpen3);
   };
-
+// se modifico ul texta 16px!! 
   return (
     <nav>
-      <div className="h-32 flex justify-evenly z-50 text-violeta-joginere lg:py-2 px-2 py-2">
+      <div className="h-32 flex justify-between z-50 text-violeta-joginere lg:py-2 px-2 py-2">
         <div className="flex items-center flex-1">
           <span className="text-lg font-bold">
             <img
@@ -36,7 +36,7 @@ const Navbar = () => {
             />
           </span>
         </div>
-        <div className=" lg:flex md:flex lg: flex-1 items-center justify-end font-normal mt-10 hidden">
+        <div className=" lg:flex md:flex lg: flex-1 items-center justify-end font-normal  hidden">
           <div className="flex-10">
             <ul className="flex gap-[18px] mr-16 text-[16px] font-semibold fill-stone-700">
               <Link

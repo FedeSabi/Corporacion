@@ -31,7 +31,7 @@ const Reseña = () => {
           </p>
         </div>
         <div className=" flex flex-col text-center mr-10 pr-10 ">
-          <h1 className="text-4xl md:text-5xl mb-6 mt-12 mr-[120px] md:mr-2 justify-center text-center">
+          <h1 className="text-4xl md:text-5xl mb-6 mt-12 mr-[120px] xl:ml-[100px] md:mr-2 justify-center text-center">
             Valores
           </h1>
           <p className=" text-md w-[350px] md:w-[600px] ml-6 mr-[100px] md:ml-2 md:text-xl items-center justify-center text-center">
@@ -45,3 +45,4 @@ const Reseña = () => {
 };
 
 export default Reseña;
+// se modifico en valores en xl: 100 mr!!!!!!!
