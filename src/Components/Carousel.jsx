@@ -1,8 +1,8 @@
 import { useState, useEffect } from "react";
-import image1 from "../assets/GC.png";
-import image2 from "../assets/JG.png";
-import image3 from "../assets/JOGICRAL.png";
-import image4 from "../assets/TECN.png";
+import image1 from "../assets/LOGO-GC-TRAVEL-JPEG.jpg";
+import image2 from "../assets/LOGO-JG-CREATIVOS-JPEG .jpg";
+import image3 from "../assets/LOGO-JOGICRAL-JPEG.jpg";
+import image4 from "../assets/LOGO-TECNINGENIO-JPEG.jpg";
 
 const originalImages = [image1, image2, image3, image4];
 const images = [...originalImages, ...originalImages]; // Duplica las imágenes

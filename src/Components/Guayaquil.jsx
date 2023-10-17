@@ -9,9 +9,9 @@ const Guayaquil = () => {
           <img
             src={Postal1}
             alt="edificios"
-            className="w-full h-[800px] opacity-75 mx-auto"
-            style={{ display: "block" }}
-          />
+            className="w-full h-[800px] opacity-75 mx-auto object-cover" 
+            style={{ display: "block" }}   
+          />{/*se modifico object cover */}
         </div>
 
         <div className="flex flex-col sm:flex-row justify-evenly gap-8 p-10 m-3 w-full">
