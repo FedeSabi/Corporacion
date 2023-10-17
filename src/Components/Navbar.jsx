@@ -993,7 +993,7 @@ const Navbar = () => {
                 </span>
               </button>
               {activeDropdown === "aboutDropdownOpen" && (
-                <ul className="ml-4 mb-2 absolute left-0 mt-2 w-auto bg-white border border-gray-300 shadow-lg">
+                <ul className="ml-4 mb-2 absolute left-0 mt-2 w-auto bg-white border border-gray-300 shadow-lg z-10">
                   <li>
                     <Link
                       to="/Nosotros"
@@ -1071,7 +1071,7 @@ const Navbar = () => {
                 </span>
               </button>
               {activeDropdown === "aboutDropdownOpen2" && (
-                <ul className="ml-4 mb-2 absolute left-0 mt-2 w-auto bg-white border border-gray-300 shadow-lg">
+                <ul className="ml-4 mb-2 absolute left-0 mt-2 w-auto bg-white border border-gray-300 shadow-lg z-10">
                   <li>
                     <Link
                       to="/Tecningenio"
