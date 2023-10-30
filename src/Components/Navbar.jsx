@@ -637,7 +637,7 @@ const Navbar = () => {
   return (
     <nav>
       <div className="h-32 flex justify-between z-50 text-violeta-joginere lg:py-2 px-2 py-2">
-        <div className="flex items-center flex-1">
+        <div className="flex items-center flex-0">
           <span className="text-lg font-bold">
             <img
               src={Logo}

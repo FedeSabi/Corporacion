@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import image1 from "../assets/LOGO-GC-TRAVEL-JPEG.jpg";
-import image2 from "../assets/LOGO-JG-CREATIVOS-JPEG .jpg";
+import image2 from "../assets/LOGO-JG-CREATIVOS-JPEG.jpg";
 import image3 from "../assets/LOGO-JOGICRAL-JPEG.jpg";
 import image4 from "../assets/LOGO-TECNINGENIO-JPEG.jpg";
 
